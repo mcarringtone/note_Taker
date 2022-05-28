@@ -1,12 +1,12 @@
 {
-  "name": "note-taker",
+  "name": "loose-leaf",
   "version": "1.0.0",
   "description": "An app for saving, viewing, and deleting notes.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amanda Atkins",
+  "author": "Carrington Edmondson",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
